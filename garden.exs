@@ -1,6 +1,6 @@
 defmodule Garden do
 
-  @default_names ~w(alice bob charlie david eve fred ginny harriet leana joseph kincaid larry)a
+  @default_names ~w(alice bob charlie david eve fred ginny harriet ileana joseph kincaid larry)a
   @plants %{?G => :grass, ?C => :clover, ?V => :violets, ?R => :radishes}
   @doc """
     Accepts a string representing the arrangement of cups on a windowsill and a
